@@ -1,0 +1,24 @@
+Github
+******
+
+1. code repo
+	5 people are using the same code repo 
+1. deadlock
+2. merge conflicts --> 
+	Dev1 --> written code(homepage(10methods) --> 5 methods or functions) and pushed to his branch --> PR--> Master 
+	Dev2--> madechanges to homepage(10 methods) --> add 10 or methods --> PR --> 20 methods to master 
+
+0000. git cred --> 
+git config --global user.name "xyz"
+git config --global credential.helper store
+
+2. code pull --> 
+git clone https://github.com/sreenutech2013/PW_Javascript.git
+
+2.1 git branch
+	git checkout "branch_name"
+
+3. git add .
+4. git commmit -m "message" 
+5. git push 
+
