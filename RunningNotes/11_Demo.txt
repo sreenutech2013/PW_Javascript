@@ -1,0 +1,58 @@
+
+					Welcome to Sreenu Tech
+					Playwright class 
+					
+
+Zero --> Advance
+
+1. Freshers --> Gain Knowlege on playwright with javascript and TS--> 3+
+2. EXP persons--> 
+Delivery --> manual testing or fuunctional testing 
+Release --> regression --> Automation --> 
+NFR --> ACC , performance , api level testing --> arch --techical testing 
+
+
+Selenium , cypress and playwright
+
+Selenium --> UI automation , API --> rest assured 
+You need to invest on framework deisgn 
+HTTP 
+Code--> HTTP --> browser --> execute --> respond --> IDE -- Flackyness
+SMS every message is one connection 
+
+
+Playwright --> UI automation , api automation , visual compare, mock, etc
+websocket --> 
+connection first --> start communicate with browser --> 150 execute it --> finally connection will be disconnected 
+Phone call--> 
+
+playwright --> MS--> open source 
+
+puppeter 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					
+					
+					
+					
+					

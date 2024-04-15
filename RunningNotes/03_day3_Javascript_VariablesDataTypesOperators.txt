@@ -1,0 +1,23 @@
+Day-3 
+
+1. Variable and its importance 
+2. Data types 
+3. Operators
+
+Variable::- var , let , const 
+var is old way of declaring variables from 1995-2015
+let is latest after 2015 and recommended 
+let --> Scope--> Global scope and function scope 
+Hoisting , Redeclaring 
+
+
+Data types :-
+String 
+Number
+Boolean
+Null
+Object --> Array , date
+Undefined
+
+
+

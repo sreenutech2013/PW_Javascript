@@ -1,0 +1,9 @@
+Javascript Day2
+
+1. Setting up the project -->
+Download nodejs --> https://nodejs.org/en/download,
+ Visualstudio code --> https://code.visualstudio.com/download
+ cmd to setup project "npm init js-project jslearning"
+2. First JS script or program 
+3. Comments 
+4. Variable 

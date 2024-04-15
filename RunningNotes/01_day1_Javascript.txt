@@ -1,0 +1,34 @@
+Javascript :- 
+
+1. Intro to JS
+2. Why JS -- Uses of JS 
+2.1 client-side and server side 
+3. Setup 
+4. Visual Studio -- IDE setup 
+5. First program 
+
+
+JS --> 
+History --> netscape --> Livescript --> javascript 
+1. ECMA scripting 
+2. DOM  --> HTML , CSS, JS/ts
+3. BOM 
+
+
+client-side and server side 
+Scripting at browser or wepage 
+
+Nodejs --> Server 
+
+
+
+
+
+
+
+
+
+
+
+
+

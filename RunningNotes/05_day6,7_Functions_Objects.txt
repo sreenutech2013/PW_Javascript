@@ -1,0 +1,26 @@
+Funtions :- 
+ Return statement 
+Objects 
+
+
+car - object 
+
+name 
+model
+color 
+
+var name
+let model
+const color 
+
+object
+
+let car = {
+name: 'Audi',
+model: 'xyz'
+color : 'red'
+}
+
+
+
+String methods 

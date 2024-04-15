@@ -1,0 +1,63 @@
+1. Operators
+2. Functions
+
+
+How TypescriptWorks
+ hello ram
+ hello vijay 
+ 
+ Javascript --> complie --> no errors --> execution --> 010101
+ Typescript --> Create Javascript --> complie --> no errors --> execution --> 010101
+ 
+ Operators:- 
+ // Assignment
+// Addition
+// Multiplication
+// Comparisons
+//String 
+
+//Logical  :- && , || and !
+
+--> if your distance to office is less than 30KM 
+--> also if traffic is less in peak times 
+
+&&  --> if(dist <= 30 && peakTraffic = flase)
+
+--> if the dist is <= 30
+--> your salary is > 30L
+
+||  --> if(dist <= 30 || salary < 3000k)
+Compare condisions 
+
+True && True --> true 
+True && false --> false 
+false && false --> false 
+
+
+True or True --> true 
+true or false --> true 
+false or false --> false 
+
+!:- 
+if salary is less than 30L
+if(!(salary < 30L))
+sal = 30000000
+sal = '3000000'
+
+if(((!(salary < 30L)) && (dis >30)) ||  )
+
+
+
+Functions:- 
+is a block of code which executes when we call that function 
+
+
+
+
+
+
+
+
+
+
+
