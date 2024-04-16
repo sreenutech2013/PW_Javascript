@@ -17,3 +17,5 @@ for (let x of person.emp) {
         console.log(x[y])
     }
 }
+
+//end of the loop

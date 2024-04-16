@@ -41,7 +41,7 @@ printFullNameWithParams(firstName, lastName)
 // create function without variables --> write logic within that and call that function
 //accept params for the function --> call that function with diff set of var
 
-
+//update
 
 // TestScore = 75;
 // Grade = "A+";
