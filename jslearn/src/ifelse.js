@@ -31,3 +31,7 @@ function buyMobile(price = 85000) {
 let price=20000;
 console.log(buyMobile(price))
 console.log(buyMobile(80000))
+
+
+
+////asdasd
