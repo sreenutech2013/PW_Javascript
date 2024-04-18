@@ -1,0 +1,16 @@
+
+Git with sourcetree
+
+Arrays and Maps
+
+loops --> while and do while 
+
+while --> 
+
+while(condition){
+statments 
+}
+
+
+
+
