@@ -11,6 +11,13 @@ while(condition){
 statments 
 }
 
+let color = page.locator('//xpath').textcontent()
+//blue
+while(color=='green'){
+page.locator('//xpath').click(); 
+color = page.locator('//xpath').textcontent()
+}
+
 
 
 
