@@ -1,0 +1,11 @@
+
+
+Sets 
+List of elements can store in array --> array can allow duplicates ['a','b','a']
+set is a class -->
+
+Typeof 
+
+type conversion 
+
+Error handling 
