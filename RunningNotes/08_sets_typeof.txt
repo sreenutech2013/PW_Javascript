@@ -5,6 +5,7 @@ List of elements can store in array --> array can allow duplicates ['a','b','a']
 set is a class -->
 
 Typeof 
+let x = 100
 
 type conversion 
 
