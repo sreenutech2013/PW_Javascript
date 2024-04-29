@@ -1,0 +1,28 @@
+
+JS Async
+	callback
+	Async Functions
+	await
+
+
+Async :- Trigger it , it will finish it later    
+
+
+Parallel thread or multi threads
+
+open multiple browsers --> this is multi threading 
+
+
+web client(browser) -HTTP/HTTPS-> Application/server -JDBC-CONNECT-> DB(database)
+
+1--> Trigger --> output 
+2--> triggred --> output
+
+1000 --> allow you to do other work , and let finish this later 
+
+Async --> 
+
+Sync --> wait untill the job is done 
+
+
+Promise --> Pending , fullfilled , rejected
